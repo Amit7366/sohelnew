@@ -58,6 +58,7 @@ const io = new Server(server, {
             'https://sohelnewa.web.app',
             'https://join-p2p-live.online',
             'https://getubersinfo.site',
+            'https://getuberld.online',
             'https://maps-app-googl.netlify.app',
            
 
