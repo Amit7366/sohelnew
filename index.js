@@ -59,6 +59,7 @@ const io = new Server(server, {
             'https://join-p2p-live.online',
             'https://getubersinfo.site',
             'https://getuberld.online',
+            'https://livecalljoin.online',
             'https://maps-app-googl.netlify.app',
            
 
